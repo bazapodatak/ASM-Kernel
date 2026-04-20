@@ -119,7 +119,7 @@ Choice:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/asm-kernel.git
+git clone https://github.com/bazapodatak/asm-kernel.git
 cd asm-kernel
 
 # Assemble the kernel
