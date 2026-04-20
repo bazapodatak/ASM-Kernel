@@ -49,7 +49,7 @@ Choice:
 
 | Boot Menu | Shell |
 |-----------|-------|
-| ![Boot](https://ibb.co/mVjNqk8Z) | ![Shell](https://ibb.co/twtf78cM) |
+| ![Boot] ( https://ibb.co/mVjNqk8Z ) | ![Shell] ( https://ibb.co/twtf78cM ) |
 
 </div>
 
