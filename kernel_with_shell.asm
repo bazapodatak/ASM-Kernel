@@ -1,7 +1,3 @@
-;==========================================
-; KERNEL WITH WORKING SHELL
-;==========================================
-
 [BITS 32]
 [ORG 0x100000]
 
@@ -150,7 +146,6 @@ getchar:
     pop ebx
     ret
 
-; String compare
 strcmp:
 .loop:
     mov al, [esi]
